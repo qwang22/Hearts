@@ -1,3 +1,3 @@
 # Hearts
 
-Hearts card game
+Hearts card game.  Play from "hearts.html"
